@@ -1,0 +1,23 @@
+# R temporary and session files
+.Rhistory
+.RData
+.Ruserdata
+*.Rout
+
+# RStudio project-specific files
+.Rproj.user/
+
+# renv local package library and temporary files
+renv/library/
+renv/staging/
+renv/cache/
+
+# Temporary and intermediate files
+*.tmp
+*.bak
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
